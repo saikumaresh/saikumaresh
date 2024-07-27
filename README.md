@@ -2,11 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+Python)](https://git.io/typing-svg) 
 
-<img src="https://github.com/saikumaresh/saikumaresh/blob/4abc81bc4a18493f7333ae2c9e16bcac48cbfcab/banner.png" alt="Hello world">
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/saikumaresh" alt="Leetcode Stats">
+</div>
 
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  Profile Visitor count<br>
+  <img src="https://profile-counter.glitch.me/saikumaresh/count.svg" />
 </p>
 
 # About me
@@ -21,23 +23,19 @@
 
 🔬 My journey includes a research internship at VIT, where I worked on CAPTCHA systems, and various internships in marketing, content creation, and data science, broadening my skill set.
 
-*Skills*: Python, Full Stack Development, Salesforce, Network Automation
+**Skills**: Python, Full Stack Development, Salesforce, Network Automation
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saikumaresh)](https://github.com/anuraghazra/github-readme-stats)
 
-# LeetCode Status
+### Check out my latest Medium Blog
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/saikumaresh)
-
-# Check out my latest Medium Blog
-
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=saikumaresh)](https://medium.com/@omidnikrah)
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<img src="https://github-readme-medium.vercel.app/?username=saikumaresh" alt="Sai Kumaresh Medium">
 
 💡 If you're interested in discussing software development, Python, networking, cybersecurity, or Salesforce, feel free to reach out or email me at saikumaresh007@gmail.com. I'm always open to discussing new projects, opportunities, and collaborations!
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/saikumaresh)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/sai_kumaresh)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sai-kumaresh//)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](saikumaresh.github.io)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@saikumaresh)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/u/saikumaresh/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/saikumaresh)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/sai_kumaresh)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sai-kumaresh//)        [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@saikumaresh)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/u/saikumaresh/)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](saikumaresh.github.io)
+
+
 
 
 
