@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there 👋, my name is Sai Kumaresh
+#### Full Stack Developer | Python
+💼 I've worked at Wipro, L&T, and BeyondX, focusing on software development and network automation projects.
 
-<!--
-**saikumaresh/saikumaresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 At Wipro, I developed and maintained Salesforce applications, improving user experience and streamlining business processes.
 
-Here are some ideas to get you started:
+🌐 At L&T, I implemented Zero Touch Provisioning and Network Topology Mapper, using Python and various network tools to automate complex network tasks and enhance efficiency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖼️ At BeyondX, I developed a GUI for image steganography with encryption and created content related to networking and cybersecurity, showcasing my versatility in both development and content creation.
+
+🔬 My journey includes a research internship at VIT, where I worked on CAPTCHA systems, and various internships in marketing, content creation, and data science, broadening my skill set.
+
+Skills: Python, Full Stack Development, Salesforce, Network Automation
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
