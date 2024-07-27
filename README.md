@@ -7,6 +7,8 @@
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
 
+# About me
+
 💼 I've worked at Wipro, L&T, and BeyondX, focusing on software development and network automation projects.
 
 👨‍💻 At Wipro, I developed and maintained Salesforce applications, improving user experience and streamlining business processes.
