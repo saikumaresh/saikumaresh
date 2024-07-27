@@ -23,6 +23,8 @@ Skills: Python, Full Stack Development, Salesforce, Network Automation
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saikumaresh)](https://github.com/anuraghazra/github-readme-stats)
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/saikumaresh)
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/saikumaresh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/sai_kumaresh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sai-kumaresh//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](saikumaresh.github.io)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@saikumaresh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/u/saikumaresh/)  
 
 💡 If you're interested in discussing software development, Python, networking, cybersecurity, or Salesforce, feel free to reach out or email me at saikumaresh007@gmail.com. I'm always open to discussing new projects, opportunities, and collaborations!
