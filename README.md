@@ -1,4 +1,7 @@
-# Hey there, this is Sai kumaresh :wave:
+# Hey There, this is Sai kumaresh :wave:
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+Python)](https://git.io/typing-svg) 
+
 
 <img src="https://github.com/saikumaresh/saikumaresh/blob/4abc81bc4a18493f7333ae2c9e16bcac48cbfcab/banner.png" alt="Hello world">
 
@@ -30,6 +33,10 @@
 # Check out my latest Medium Blog
 
 [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=saikumaresh)](https://medium.com/@omidnikrah)
+
+# LinkedIn Profile
+
+<img src="https://www.linkedin.com/in/sai-kumaresh/" />
 
 💡 If you're interested in discussing software development, Python, networking, cybersecurity, or Salesforce, feel free to reach out or email me at saikumaresh007@gmail.com. I'm always open to discussing new projects, opportunities, and collaborations!
 
