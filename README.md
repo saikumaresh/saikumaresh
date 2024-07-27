@@ -1,5 +1,11 @@
-### Hi there 👋, my name is Sai Kumaresh
-#### Full Stack Developer | Python
+# Hey there, this is Sai kumaresh :wave:
+
+<img src="https://github.com/saikumaresh/saikumaresh/blob/4abc81bc4a18493f7333ae2c9e16bcac48cbfcab/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
 
 💼 I've worked at Wipro, L&T, and BeyondX, focusing on software development and network automation projects.
 
