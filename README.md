@@ -27,6 +27,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saikumaresh)](https://github.com/anuraghazra/github-readme-stats)
 
+[![roadmap.sh](https://roadmap.sh/card/wide/67488e9f503943107543bddb?variant=dark)](https://roadmap.sh)
 
 💡 If you're interested in discussing software development, Python, networking, cybersecurity, or Salesforce, feel free to reach out or email me at saikumaresh007@gmail.com. I'm always open to discussing new projects, opportunities, and collaborations!
 
