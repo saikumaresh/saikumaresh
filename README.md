@@ -29,9 +29,9 @@ Small, reproducible experiments. Each one has the numbers, the code and a notebo
 
 ## Stack
 
-**Data:** SQL, Python, Redshift, Snowflake, Spark, Kafka, Airflow (MWAA), Apache Iceberg, dbt, Athena, DynamoDB
-**AI:** Amazon Bedrock, AgentCore, SageMaker, RAG, MCP, Claude, guardrails, evaluation
-**Cloud:** AWS (S3, EMR, Lambda, Step Functions, IAM, CDK, CloudWatch)
+- **Data:** SQL, Python, Redshift, Snowflake, Spark, Kafka, Airflow (MWAA), Apache Iceberg, dbt, Athena, DynamoDB
+- **AI:** Amazon Bedrock, AgentCore, SageMaker, RAG, MCP, Claude, guardrails, evaluation
+- **Cloud:** AWS (S3, EMR, Lambda, Step Functions, IAM, CDK, CloudWatch)
 
 ## Credentials
 
