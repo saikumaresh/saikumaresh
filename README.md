@@ -1,39 +1,54 @@
-# Hey There, this is Sai kumaresh :wave:
+# Sai Kumaresh L
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+Python)](https://git.io/typing-svg) 
+**Data & AI Platform Engineer at Amazon (Ring Data Science).** I build data platforms and the AI systems that run on top of them, on AWS.
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/saikumaresh" alt="Leetcode Stats">
-</div>
+[Website](https://saikumaresh.com) · [LinkedIn](https://www.linkedin.com/in/sai-kumaresh/) · [Medium](https://medium.com/@saikumaresh) · [LeetCode](https://leetcode.com/u/saikumaresh/) · [Email](mailto:saikumaresh007@gmail.com)
 
-<p align="center"> 
-  Profile Visitor count<br>
-  <img src="https://profile-counter.glitch.me/saikumaresh/count.svg" />
+## What I work on
+
+- **Data platforms at petabyte scale.** A Redshift warehouse, an S3 data lake and 300+ Airflow pipelines that feed analytics across the business. Data warehousing, ETL, data quality and cost.
+- **Agentic AI in production.** I led the team that took a multi-agent platform on Amazon Bedrock from prototype to production: RAG, MCP tool calling, guardrails, and agents that act only with the user's own permissions.
+- **Context engineering.** I built a Bedrock-backed platform for contextual AI workflows that ran for 100+ concurrent engineers across Chennai, Bangalore and Hyderabad, and co-presented the two-day programme it was built for.
+
+Before Amazon I founded and exited GetSetAI, a three-person AI consultancy. I sized, priced and delivered AI projects from scoping to handover. Earlier, close to three years as a Salesforce developer at Wipro, and Python network automation at L&T.
+
+Different stacks, same job: find what people are doing by hand and turn it into a system.
+
+## Labs
+
+Small, reproducible experiments. Each one has the numbers, the code and a notebook you can run.
+
+| Repo | What it shows |
+| --- | --- |
+| [iceberg-lakehouse-lab](https://github.com/saikumaresh/iceberg-lakehouse-lab) | Apache Iceberg in eight experiments: rollback, time travel, hidden partitioning, compaction and table maintenance |
+| [pyspark-perf-lab](https://github.com/saikumaresh/pyspark-perf-lab) | Seven PySpark experiments. Fix the query, not the cluster |
+| [kafka-cost-model](https://github.com/saikumaresh/kafka-cost-model) | Kafka on AWS: one workload, five setups, an open cost model built from public prices |
+| [clone-parity-test](https://github.com/saikumaresh/clone-parity-test) | Can an AI clone a real app feature, and prove it? Four clean-room agents, 18/18 byte parity |
+| [job-search-harness](https://github.com/saikumaresh/job-search-harness) | A six-layer Claude Code harness: evidence-based scoring, a read-only verifier, memory and scheduling |
+| [counterfactual-world-model-lab](https://github.com/saikumaresh/counterfactual-world-model-lab) | A 20-second replication of residual reuse from the Counterfactual World Models paper |
+
+## Stack
+
+**Data:** SQL, Python, Redshift, Snowflake, Spark, Kafka, Airflow (MWAA), Apache Iceberg, dbt, Athena, DynamoDB
+**AI:** Amazon Bedrock, AgentCore, SageMaker, RAG, MCP, Claude, guardrails, evaluation
+**Cloud:** AWS (S3, EMR, Lambda, Step Functions, IAM, CDK, CloudWatch)
+
+## Credentials
+
+- M.S. in Computer Science, Woolf University
+- Claude Certified Architect, Professional and Foundations (Anthropic)
+- AWS Certified Data Engineer
+- AWS Certified AI Practitioner
+- Salesforce Developer
+
+## Writing
+
+I write about data engineering and AI systems on [Medium](https://medium.com/@saikumaresh) and [LinkedIn](https://www.linkedin.com/in/sai-kumaresh/): Iceberg internals, Spark query plans, Kafka cost, agent safety.
+
+## What's next
+
+I want forward deployed work: building AI alongside the people who will actually use it. If you're hiring for that, email me at saikumaresh007@gmail.com.
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/saikumaresh" alt="LeetCode stats">
 </p>
-
-# About me
-
-💼 I've worked at Wipro, L&T, and BeyondX, focusing on software development and network automation projects.
-
-👨‍💻 At Wipro, I developed and maintained Salesforce applications, improving user experience and streamlining business processes.
-
-🌐 At L&T, I implemented Zero Touch Provisioning and Network Topology Mapper, using Python and various network tools to automate complex network tasks and enhance efficiency.
-
-🖼️ At BeyondX, I developed a GUI for image steganography with encryption and created content related to networking and cybersecurity, showcasing my versatility in both development and content creation.
-
-🔬 My journey includes a research internship at VIT, where I worked on CAPTCHA systems, and various internships in marketing, content creation, and data science, broadening my skill set.
-
-**Skills**: Python, Full Stack Development, Salesforce, Network Automation
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saikumaresh)](https://github.com/anuraghazra/github-readme-stats)
-
-[![roadmap.sh](https://roadmap.sh/card/wide/67488e9f503943107543bddb?variant=dark)](https://roadmap.sh)
-
-💡 If you're interested in discussing software development, Python, networking, cybersecurity, or Salesforce, feel free to reach out or email me at saikumaresh007@gmail.com. I'm always open to discussing new projects, opportunities, and collaborations!
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/saikumaresh)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/sai_kumaresh)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sai-kumaresh//)        [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@saikumaresh)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/u/saikumaresh/)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://saikumaresh.github.io/)
-
-
-
-
-
